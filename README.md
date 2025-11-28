@@ -1,4 +1,4 @@
-# Actividad Formativa: Sistema de Recomendación con IA (GitHub Copilot)
+# Actividad Formativa: Sistema de Recomendación con (GitHub Copilot)
 
 ## 1. Descripción del Proyecto
 Este repositorio contiene la actividad práctica de la Unidad 3, donde exploramos el uso de GitHub Copilot para generar código de Python enfocado en Machine Learning (algoritmo K-NN).
@@ -19,4 +19,5 @@ A continuación se muestra la ejecución exitosa del programa:
 ## 4. Tecnologías Utilizadas
 * Python 3
 * Visual Studio Code
+
 * GitHub Copilot
